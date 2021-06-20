@@ -1,0 +1,5 @@
+hello friends!!!
+Words are : 2
+Characters are : 16
+Spaces are : 1
+Special symbols are : 3
